@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indian-utility-hub-two.vercel.app/sitemap.xml
